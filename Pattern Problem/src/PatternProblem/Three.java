@@ -13,6 +13,7 @@ public class Three {
             }
             // when one row is printed, we need to add a newline
             System.out.println();
+            System.out.println("Hello my friends");
         }
     }
 }
